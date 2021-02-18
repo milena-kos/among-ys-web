@@ -6,6 +6,7 @@ Source code will be realesed soon!
 Main - branch with all github stuff, source code, and website
 
 Glitch - only website
-#Files guide
+
+# Files guide
 index.html - "Welcome" page
 play_among_ys.html - Game page
