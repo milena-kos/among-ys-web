@@ -8,7 +8,7 @@ Main - branch with all github stuff, source code, and website
 
 Glitch - only website
 
-# Files guide
+# Pages meaning
 index.html - "Welcome" page
 
 play_among_ys.html - Game page
